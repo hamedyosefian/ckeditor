@@ -115,7 +115,6 @@ Editor.builtinPlugins = [
 	LinkImage,
 	List,
 	ListProperties,
-	Markdown,
 	MathType,
 	MediaEmbed,
 	MediaEmbedToolbar,
